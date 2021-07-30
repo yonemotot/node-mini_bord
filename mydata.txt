@@ -1,0 +1,2 @@
+{"id":"yonemoto","msg":"todomin掲示板完成"}
+{"id":"yonemoto","msg":"python、djangoでtodo完成いたしました。"}
